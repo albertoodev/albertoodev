@@ -1,4 +1,4 @@
-# Hi there, I'm `Alberto` 👋
+# Hi there, I'm `AMOURA Ammar Abderafik` 👋
 ---
 I'm a software engineering student at MCBU University in Turkey and a mobile developer using **Flutter**. I graduated with a Bachelor's degree in Computer Science from UFAS University in Algeria. I have a strong passion for **Flutter** and **Node.js**, along with some experience in **ReactJs**. I'm also skilled in **Python** and deeply interested in **Data Science**. Additionally, I'm a **Linux** and **shell scripting** enthusiast, always exploring the power of the command line.
 
