@@ -4,8 +4,8 @@ I'm a software engineer
 Twitch affiliate (coding on stream once every 3-4 months)
 
 <p align="center">
-  <a href="https://www.twitch.tv/albertod3v"><img src="https://img.shields.io/badge/Twitch-albertod3v-9146FF.svg?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://www.instagram.com/alberto.d3v/"><img src="https://img.shields.io/badge/Instagram-alberto.d3v-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.twitch.tv/32bytes"><img src="https://img.shields.io/badge/Twitch-32bytess-9146FF.svg?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://www.instagram.com/32bytess/"><img src="https://img.shields.io/badge/Instagram-32bytess-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
